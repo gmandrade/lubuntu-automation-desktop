@@ -1,5 +1,11 @@
 # lubuntu-automation-desktop
 
+## Run
+
+> OBS: Do not run with sudo (Home files are configured to your user)
+
+`./main.sh`
+
 ## Packages
 * vim
 * dnsutils
